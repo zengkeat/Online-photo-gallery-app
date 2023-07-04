@@ -32,8 +32,7 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 2. Open your phpMyAdmin (http://localhost/phpmyadmin/) from your XAMPP server and create a database called "online-photo-gallery"
 3. Import the online-photo-gallery.sql into your database
 - NOTE: Below is the code to connect the phpMyAdmin MySQL databases in conn.php, if your username, password or database name is different then you have to update it in the conn.php 
-    <img width="939" alt="Screenshot 2023-07-04 at 3 55 49 PM" src="https://github.com/zengkeat/Online-photo-gallery-app/assets/42499826/ff22e65e-5428-4f3f-8e26-1abb7abbe291">
-
+    <img width="624" alt="Screenshot 2023-07-04 at 3 56 57 PM" src="https://github.com/zengkeat/Online-photo-gallery-app/assets/42499826/efce2829-f409-4c6c-81cc-7bc75c5bae5d">
 
 
 ## Step 4:
