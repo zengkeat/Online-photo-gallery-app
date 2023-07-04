@@ -5,8 +5,10 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 - Signin or signup a users
 - post, update and delete a post
 - Exploring other posts or creator in the website
+- Exploring post like Trending, Fresh or Categories
 - Like and Unlike other people posts
-- Search posts through "#"(hashtag), categories, users etc. 
+- Search posts through "#"(hashtag), categories, creator, post title etc.
+
     
 <br>
 <br>
