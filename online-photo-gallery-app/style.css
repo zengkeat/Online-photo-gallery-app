@@ -1,0 +1,147 @@
+body {
+ font-size: 120%;
+ background: #F8F8FF;
+}
+
+/* //form */
+.header {
+ width: 30%;
+ margin: 50px auto 0px;
+ text-align: center;
+ margin-top:170PX;
+font-family: 'Lobster', cursive;
+}
+
+.header h1 {
+    background: black;
+   background: linear-gradient(to right, red, orange,red,red,orange, blue,indigo, violet, red);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.header i{
+    background: black;
+   background: linear-gradient(to right, red, orange, red, green, blue, indigo, violet);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.header p{
+
+  font-family: "Times New Roman",Times,serif;
+}
+
+form{
+ width: 30%;
+ margin: 0px auto;
+ padding: 20px;
+ /* border: 1px solid #B0C4DE; */
+ /* background: white; */
+ border-radius: 0px 0px 10px 10px;
+ text-align: center;
+}
+
+.input-group {
+ margin: 10px 0px 20px 0px;
+
+}
+
+.input-group textarea{
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 30px;
+  font-family: serif;
+  border: 2px solid #DDD;
+}
+.input-group select{
+  width: 98%;
+  padding: 5px 10px;
+  font-size: 30px;
+  font-family: serif;
+  border: 2px solid #DDD;
+}
+.input-group-p{
+  color:grey;
+
+}
+
+.input-group label {
+ display: block;
+ text-align: left;
+ margin: 3px;
+}
+.input-group input {
+ height: 70px;
+ width: 93%;
+ padding: 5px 10px;
+ font-size: 30px;
+ font-family: serif;
+ border: 2px solid #DDD;
+}
+#btn {
+ height: 60px;
+ font-size: 25px;
+ background: #1ABC9C;
+ width:100%;
+ color:white;
+ width:45%;
+ border-radius: 5px;
+
+}
+.error {
+ width: 92%;
+ margin: 0px auto;
+ padding: 10px;
+ border: 1px solid #a94442;
+ color: #a94442;
+ background: #f2dede;
+ border-radius: 5px;
+ text-align: left;
+}
+
+.notification{
+  text-align: center;
+  margin:  auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+/* search form */
+.search_form{
+  text-align: right;
+  width:96%;
+}
+
+.search_form input {
+    height:25px;
+}
+.searchbtn{
+  font-weight: bold;
+  color: white;
+  background-color: #1caf4f;
+  border-radius: 5px;
+
+  }
+
+.SearchFail{
+  text-align: center;
+  font-family:concert one;
+}
+
+
+/* postdetail page */
+.post_detail{
+  margin:100px 0 0 25%;
+  width:50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  font-family: Proxima Nova,helvetica neue,helvetica,arial,sans-serif;
+  padding:10px 10px 10px 10px;
+  background-color: white;
+  /* border:1px solid black; */
+}
+
+.post_deail_image{
+  width:100%;
+  height:70%;
+}
