@@ -38,7 +38,7 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 
 ## Step 4:
 1. In your web browser, type "http://localhost/online-photo-gallery-app/login.php" to navigate to the InstaGiam login page, you should see something like this:
-    <img width="1564" alt="Screenshot 2023-07-04 at 2 50 38 PM" src="https://github.com/zengkeat/Online-meal-ordering-system/assets/42499826/af31dda1-f73e-4f6f-98ee-8c3e459d983e">
+    <img width="939" alt="Screenshot 2023-07-04 at 3 55 49 PM" src="https://github.com/zengkeat/Online-photo-gallery-app/assets/42499826/ff22e65e-5428-4f3f-8e26-1abb7abbe291">
 
 <br>
 <br>
