@@ -4,7 +4,7 @@
 InstaGiam is an simple mock Instagram project for web. It provide some simple functionality like:
 - Signin or signup a users
 - post, update and delete a post
-- Exploring posts or creator in the website
+- Exploring other posts or creator in the website
 - Like and Unlike other people posts
 - Search posts through "#"(hashtag), categories, users etc. 
     
@@ -19,11 +19,11 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 
 # Steps to setup the project in your computer:
 ## Step 1:
-1. Download the respository "online-meal-ordering-system"
+1. Download the respository "online-photo-gallery-app"
 2. unzip the folder
 
 ## Step 2:
-1. Copy and paste the folder "online-meal-ordering-system" into your web server, im using XAMPP but you use anything you want
+1. Copy and paste the folder "online-photo-gallery-app" into your web server, im using XAMPP but you use anything you want
 2. If you using XAMPP:
     - Put the entire folder into folder called "htdocs"
 
