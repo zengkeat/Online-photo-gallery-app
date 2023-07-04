@@ -51,6 +51,6 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
   - Some example of users' username and password: 
       - username: john snow, password: 12345678
       - username: jonny depp, password: 12345678
-      - username: giam, password: 12345678 (this account is also admin, if you login with this account you can access some data information after clicking the "Admin" button in the navigation bar)
+      - username: giam, password: 12345678 (this account is also admin, if you login with this account you can access and update some data after clicking the "Admin" button in the navigation bar)
      
 
