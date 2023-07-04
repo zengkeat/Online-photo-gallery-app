@@ -1,34 +1,12 @@
 # InstaGiam
 
 # Introduction:
-InstaGiam is an online meal ordering system that intended to develop a better approach to solve the long waiting line in the cafeteria and student card top-up area of Asia Pacific University, especially in the peak hour such as lunch time.
-
-The system offers a new way to order food and top-up throught the web application. The whole system contain 4 different web-based system and functionality:
-- Meal ordring application:
-  - Take order, track order, and cancel order
-  - Set Favourite Order
-  - Top-up student card
-  - Modify Account
-  - View Transaction history including generate invoice
-- Financial department web application:
-  - Search Customer Profile
-  - Reload / Refund Credit Balance
-  - View Order / Customer / Credit, Transaction.
-  - View Invoice
-  - Sales Report
-  - Stall Report
-- Stall/Vendor web application:
-  - Update Available Food
-  - Manage Food
-  - View Food Information
-  - Stall Profile
-  - Change Password
-  - Monthly Report and Profit Report
-- System Admin web application:
-  - upload, edit, delete post at the ads banner
-  - Register and Manage student, lecturer, staff
-  - Manage Stall Owner account
-  - Display database information
+InstaGiam is an simple mock Instagram project for web. It provide some simple functionality like:
+- Signin or signup a users
+- post, update and delete a post
+- Exploring posts or creator in the website
+- Like and Unlike other people posts
+- Search posts through "#"(hashtag), categories, users etc. 
     
 <br>
 <br>
