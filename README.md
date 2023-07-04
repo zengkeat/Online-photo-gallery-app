@@ -45,7 +45,7 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 
 
 # Username and Password:
-  - You can visit the database table "customer", "staff", "stall" to get username and password to access different web application, all the passwords is set to "12345678".
+  - You can visit the database table "users", "staff", "stall" to get username and password to access different web application, all the passwords is set to "12345678".
   - I have list some example of username and password that you can to login to each application 
       - Meal-ordering-application (http://localhost/online-meal-ordering-system/meal-ordering-app/customer_login.php):
           - username: TP044766, password: 12345678
