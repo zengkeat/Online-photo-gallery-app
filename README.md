@@ -45,23 +45,10 @@ InstaGiam is an simple mock Instagram project for web. It provide some simple fu
 
 
 # Username and Password:
-  - You can visit the database table "users", "staff", "stall" to get username and password to access different web application, all the passwords is set to "12345678".
-  - I have list some example of username and password that you can to login to each application 
-      - Meal-ordering-application (http://localhost/online-meal-ordering-system/meal-ordering-app/customer_login.php):
-          - username: TP044766, password: 12345678
-          - username: TP044765, password: 12345678
-      - financial-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
-          - username: finance, password:12345678, role: Financial Department(pick at the drop down)
-      - system-admin-application http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
-          - username: admin, password:12345678, role: System Admin(pick at the drop down)
-      - vendor-dept-application (http://localhost/online-meal-ordering-system/meal-ordering-app/staff_login.php):
-          - username: western, password:12345678, role: Stall Department(pick at the drop down)
-          - username: chinese, password:12345678, role: Stall Department(pick at the drop down)
-          - username: malay, password:12345678, role: Stall Department(pick at the drop down)
-          - username: indian, password:12345678, role: Stall Department(pick at the drop down)
-          - username: arab, password:12345678, role: Stall Department(pick at the drop down)
-          - username: bakery, password:12345678, role: Stall Department(pick at the drop down)
-          - username: dessert, password:12345678, role: Stall Department(pick at the drop down)
-          - username: beverage, password:12345678, role: Stall Department(pick at the drop down)
-            
+  - You can visit the database table "users" to get username and password of different users, all the passwords is set to "12345678".
+  - Some example of users' username and password: 
+      - username: john snow, password: 12345678
+      - username: jonny depp, password: 12345678
+      - username: giam, password: 12345678 (this account is also admin, if you login with this account you can access some data information after clicking the "Admin" button in the navigation bar)
+     
 
