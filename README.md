@@ -1,9 +1,9 @@
 # InstaGiam
 
 # Introduction:
-InstaGiam is an simple mock Instagram project for web. It provide some simple functionality like:
+InstaGiam is an simple mock Instagram project for web. It allow users to perform some actions like:
 - Signin or signup a users
-- post, update and delete a post
+- create, update and delete a post
 - Exploring other posts or creator in the website
 - Exploring post like Trending, Fresh or Categories
 - Like and Unlike other people posts
