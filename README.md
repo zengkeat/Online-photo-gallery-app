@@ -21,7 +21,7 @@ InstaGiam is an simple mock Instagram project for web. It allow users to perform
 
 # Steps to setup the project in your computer:
 ## Step 1:
-1. Download the respository "online-photo-gallery-app"
+1. Download the respository
 2. unzip the folder
 
 ## Step 2:
